@@ -6,7 +6,7 @@ My work on dataviz projects. Creations made on my own. Allon ggplot (ussually)
 
 ***
 
-### [Coefcient of variation](https://github.com/haroldnunez/dataviz/)️
+### [Coefficient of variation](https://github.com/haroldnunez/dataviz/)️
 
 ![https://raw.githubusercontent.com/haroldnunez/plots/cv.png](https://github.com/haroldnunez/dataviz/raw/main/plots/cv.png)
 
