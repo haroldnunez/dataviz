@@ -2,7 +2,7 @@
   &nbsp;DATAVIZ&nbsp;
 </h1>
 
-My work on dataviz projects. Allon ggplot (ussually)
+My work on dataviz projects. All made with ggplot
 
 ***
 
