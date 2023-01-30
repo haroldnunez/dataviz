@@ -23,5 +23,5 @@ My work on dataviz projects. All mode on ggplot (ussually)
 
 ### [📊 Coefcient of variation](https://github.com/haroldnunez/datavizT/)️
 
-[https://raw.githubusercontent.com/haroldnunez/plots/cv.png](https://github.com/haroldnunez/dataviz/raw/main/plots/cv.png)
+![https://raw.githubusercontent.com/haroldnunez/plots/cv.png](https://github.com/haroldnunez/dataviz/raw/main/plots/cv.png)
 
