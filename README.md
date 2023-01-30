@@ -21,15 +21,19 @@ My work on dataviz projects. All mode on ggplot (ussually)
 
 ***
 
-### [📊 Coefcient of variation](https://github.com/haroldnunez/datavizT/)️
+### [Coefcient of variation](https://github.com/haroldnunez/datavizT/)️
 
 ![https://raw.githubusercontent.com/haroldnunez/plots/cv.png](https://github.com/haroldnunez/dataviz/raw/main/plots/cv.png)
 
-### [📈 Abundance of bacteria across CSTs](https://github.com/haroldnunez/datavizT/)️
+### [Variation limits](https://github.com/haroldnunez/datavizT/)️
+
+![https://raw.githubusercontent.com/haroldnunez/plots/variation.png](https://github.com/haroldnunez/dataviz/raw/main/plots/variation.png)
+
+### [Abundance of bacteria across CSTs](https://github.com/haroldnunez/datavizT/)️
 
 ![https://raw.githubusercontent.com/haroldnunez/plots/abundance.png](https://github.com/haroldnunez/dataviz/raw/main/plots/abundance.png)
 
-### [📈 Diversity across CSTs](https://github.com/haroldnunez/datavizT/)️
+### [Diversity across CSTs](https://github.com/haroldnunez/datavizT/)️
 
 ![https://raw.githubusercontent.com/haroldnunez/plots/diversity.png](https://github.com/haroldnunez/dataviz/raw/main/plots/diversity.png)
 
